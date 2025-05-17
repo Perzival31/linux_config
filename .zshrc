@@ -73,6 +73,7 @@ ZSH_THEME="agnoster"
 plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
+source ~/.myzshconfig/aliases.sh
 
 # User configuration
 
